@@ -10,7 +10,7 @@
 
 ## 成果展示
 
-[🎬 點我觀看：作業執行展示影片](https://drive.google.com/file/d/1u-o5UEZ_Qz0W4EtmG9v5qDDg2rI8Xji/view?usp=sharing)
+[🎬 點我觀看：作業執行展示影片](https://drive.google.com/file/d/1u_-o5UEz_Qz0w4EtmG9v5qDDg2ri8xji/view?usp=drive_link)
 
 ## 其它補充說明
 本次測試包含 3 個題目：
